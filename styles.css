@@ -39,6 +39,9 @@ a{
     color: blue;
     cursor: pointer;
 }
+a:visited{
+    color: purple;
+}
 a:hover{
     color: red;
 }
